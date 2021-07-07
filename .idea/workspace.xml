@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c1e686-e825-43dd-a190-9b09ea72478b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-session6/target/global-logging/sbt-global-log3868457248331013547.log" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-session6/target/global-logging/sbt-global-log3868457248331013547.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/.g8/form/app/controllers/$model__Camel$Controller.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/.g8/form/app/views/$model__camel$/form.scala.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/.g8/form/default.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/.g8/form/test/controllers/$model__Camel$ControllerSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/app/controllers/HomeController.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/app/views/index.scala.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/app/views/main.scala.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/conf/application.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/conf/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/conf/messages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/conf/routes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/public/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/public/javascripts/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/public/stylesheets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/test/controllers/HomeControllerSpec.scala" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1uoU1UuVNoKYVbSAjHF9fS2zAu4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="scala" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Scala REPL.Scala REPL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c1e686-e825-43dd-a190-9b09ea72478b" name="Default Changelist" comment="" />
+      <created>1625331220787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625331220787</updated>
+      <workItem from="1625331222282" duration="4710000" />
+      <workItem from="1625418608398" duration="19362000" />
+      <workItem from="1625679589289" duration="966000" />
+      <workItem from="1625681773253" duration="259000" />
+      <workItem from="1625682064419" duration="280000" />
+      <workItem from="1625682370417" duration="16000" />
+      <workItem from="1625682416356" duration="55000" />
+      <workItem from="1625682579749" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
