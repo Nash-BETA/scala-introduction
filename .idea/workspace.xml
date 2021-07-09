@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06c1e686-e825-43dd-a190-9b09ea72478b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction-session6/target/global-logging/sbt-global-log3868457248331013547.log" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-session6/target/global-logging/sbt-global-log3868457248331013547.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/.g8/form/app/controllers/$model__Camel$Controller.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/.g8/form/app/views/$model__camel$/form.scala.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/.g8/form/default.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/.g8/form/test/controllers/$model__Camel$ControllerSpec.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/app/controllers/HomeController.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/app/views/index.scala.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/app/views/main.scala.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/conf/application.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/conf/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/conf/messages" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/conf/routes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/project/plugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/public/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/public/javascripts/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/public/stylesheets/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/test/controllers/HomeControllerSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +101,7 @@
       <workItem from="1625682064419" duration="280000" />
       <workItem from="1625682370417" duration="16000" />
       <workItem from="1625682416356" duration="55000" />
-      <workItem from="1625682579749" duration="612000" />
+      <workItem from="1625682579749" duration="1000000" />
     </task>
     <servers />
   </component>
