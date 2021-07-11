@@ -1,17 +1,20 @@
-package controllers
-
-import java.text.SimpleDateFormat
-import java.util.{TimeZone, Locale, Date}
-
-import play.api.Play.current
-import play.api.libs.concurrent.Execution.Implicits._
-import play.api.libs.json.{JsString, JsNumber, JsValue, Json}
-import play.api.libs.ws.WS
-import play.api.mvc._
-
+import javax.inject.Inject
 import scala.concurrent.Future
+import scala.concurrent.duration._
 
-class Application extends Controller {
+import play.api.mvc._
+import play.api.libs.ws._
+import play.api.http.HttpEntity
+
+import akka.actor.ActorSystem
+import akka.stream.ActorMaterializer
+import akka.stream.scaladsl._
+import akka.util.ByteString
+
+import scala.concurrent.ExecutionContext
+
+
+class Application @Inject() (ws: WSClient) extends Controller {
 
   private val lgtmRegex = """value="([^"]+)" class="form-control" id="imageUrl"""".r
 
