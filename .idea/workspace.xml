@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c1e686-e825-43dd-a190-9b09ea72478b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/app/controllers/HelloController.scala" beforeDir="false" afterPath="$PROJECT_DIR$/play-test/app/controllers/HelloController.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/play-test/test/controllers/FreeeControllerSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/play-test/test/controllers/FreeeControllerSpec.scala" afterDir="false" />
-    </list>
+    <list default="true" id="06c1e686-e825-43dd-a190-9b09ea72478b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +137,7 @@
       <workItem from="1625682579749" duration="612000" />
       <workItem from="1626075940894" duration="193000" />
       <workItem from="1626079639912" duration="231000" />
-      <workItem from="1626157049806" duration="9907000" />
+      <workItem from="1626157049806" duration="10558000" />
     </task>
     <servers />
   </component>
