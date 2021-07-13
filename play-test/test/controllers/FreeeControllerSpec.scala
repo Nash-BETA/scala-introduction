@@ -13,8 +13,10 @@ class FreeeControllerSpec extends PlaySpec with GuiceOneAppPerTest with Injectin
     "フェイクリクエスト" in {
       val request = FakeRequest(GET, "/hello")
       val response = route(app, request).get
-      
+
       status(response) mustBe OK
+      contentType(response) mustBe Some("text/plain")
+      contentAsString(response) mustBe "Hello World"
     }
   }
 }
