@@ -5,30 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06c1e686-e825-43dd-a190-9b09ea72478b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test-app/app/controllers/Application.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app/app/controllers/HomeController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app/app/views/lgtm.scala.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/app/controllers/Application.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/conf/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/conf/prod.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/conf/routes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/project/plugins.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-app2/system.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play-test/app/controllers/HelloController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play-test/test/controllers/FreeeControllerSpec.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/app/controllers/ApplicationController.scala" beforeDir="false" afterPath="$PROJECT_DIR$/play-test/app/controllers/ApplicationController.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/play-test/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-test/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/play-test/conf/routes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="ExternalProjectsManager">
     <system id="SBT">
@@ -46,6 +48,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Scala Worksheet" />
       </list>
     </option>
   </component>
@@ -70,7 +73,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test-app/app/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/play-test/test/controllers" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -79,10 +82,11 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CarNext\Desktop\scala-introduction\play-test\test\controllers" />
       <recent name="$PROJECT_DIR$/test-app/app/views" />
       <recent name="$PROJECT_DIR$/test-app/app/controllers" />
     </key>
@@ -120,6 +124,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\CarNext\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="06c1e686-e825-43dd-a190-9b09ea72478b" name="Default Changelist" comment="" />
@@ -135,6 +142,9 @@
       <workItem from="1625682370417" duration="16000" />
       <workItem from="1625682416356" duration="55000" />
       <workItem from="1625682579749" duration="612000" />
+      <workItem from="1626075940894" duration="193000" />
+      <workItem from="1626079639912" duration="231000" />
+      <workItem from="1626157049806" duration="6639000" />
     </task>
     <servers />
   </component>
