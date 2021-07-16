@@ -3,6 +3,9 @@ package controllers
 import javax.inject.Inject
 import play.api.mvc._
 
+//json
+import play.api.libs.json._
+
 //class HelloController @Inject() (cc: ControllerComponents) extends BaseControllerHelpers {
 class HelloController @Inject() (cc: ControllerComponents) extends AbstractController (cc) {
 
@@ -21,4 +24,10 @@ class HelloController @Inject() (cc: ControllerComponents) extends AbstractContr
 //      controllerComponents.actionBuilder
 //    actionBuilder.apply(new Status(200))
 //  }
+  def helloJson(): Action[AnyContent] = Action {
+    val json: JsValue =
+      Json.obj("hello" -> "world", "language" -> "scala")
+
+    Ok(json)
+  }
 }
