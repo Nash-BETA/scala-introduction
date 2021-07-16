@@ -15,3 +15,26 @@ $ scalac [ファイル名]
 ```
 Option[Int]
 ```
+
+
+**コマンドでアクセスPOST**
+
+windows
+```
+## GET
+$ curl  localhost:9000/hello
+
+## POST
+$ curl-request POST localhost:9000/hello
+{"hello":"world","language":"scala"}
+```
+
+mac
+```
+## GET
+$ http localhost:9000/hello
+
+## POST
+$ http POST localhost:9000/hello
+{"hello":"world","language":"scala"}
+```
